@@ -1,2 +1,2 @@
 # Scripts
-Geoprocessing Python Scripts 
+Geoprocessing Python Scripts for Students
