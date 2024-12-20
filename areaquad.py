@@ -57,7 +57,7 @@ arcpy.env.overwriteOutput = True
 import numpy as np
 import math
 def main():
-    env.workspace = r'C:/Users/ea9267/Downloads/'
+    env.workspace = r'C:/Users/YourUserName/Downloads/'
     env.overwriteOutput = True
     csize = 1.0
     test = areaquad("wgs84", csize)
